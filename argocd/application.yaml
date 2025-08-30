@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-username/netflix-argocd-project
+    repoURL: https://github.com/Mide69/Netflix-project-argocd.git
     targetRevision: HEAD
     path: k8s-manifests
   destination:
